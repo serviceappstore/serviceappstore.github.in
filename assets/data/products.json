@@ -1,0 +1,534 @@
+[
+    {
+        "name": "Apple",
+        "code": "APPLE",
+        "models": [
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 11 Pro Max",
+                "code": "iP11PM"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 11 Pro",
+                "code": "iP11P"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 11",
+                "code": "iP11"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone XS Max",
+                "code": "iPXSM"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone XS",
+                "code": "iPXS"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone XR",
+                "code": "iPXR"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone X",
+                "code": "iPX"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 8 Plus",
+                "code": "iP8P"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 8",
+                "code": "iP8"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 7 Plus",
+                "code": "iP7P"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 7",
+                "code": "iP7"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone SE",
+                "code": "iPSe"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 6s Plus",
+                "code": "iP6sP"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 6s",
+                "code": "iP6s"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 6 Plus",
+                "code": "iP6P"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 6",
+                "code": "iP6"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 5s",
+                "code": "iP5s"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 5c",
+                "code": "iP5c"
+            },
+            {
+                "manufacturing_code": "",
+                "name": "iPhone 5",
+                "code": "iP5"
+            }
+        ]
+    },
+    {
+        "name": "Samsung",
+        "code": "SAMSUNG",
+        "models": [
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S20 Ultra 5G"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S20 Ultra"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S20+ 5G"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S20+"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S20 5G"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S20"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Z Flip"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Xcover Pro"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Note10 Lite"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S10 Lite"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A01"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A71"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A51"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Xcover FieldPro"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A70s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A20s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy M30s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy M10s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Fold 5G"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Fold"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab Active Pro"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A90 5G"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A30s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A50s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Note10+ 5G"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Note10+"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Note10 5G"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Note10"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Watch Active2"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Watch Active2 Aluminum"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A10s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A10e"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab S6"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab A 8.0 (2019)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Xcover 4s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A2 Core"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Watch Active"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy View2"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S10 5G"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S10+"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S10"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S10e"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy M40"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy M30"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy M20"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy M10"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A80"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A70"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A60"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A50"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A40"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A30"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A20e"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A20"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A10"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab S5e"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab A 10.1 (2019)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab A 8.0 & S Pen (2019)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab Advanced2"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab A 8.0 (2018)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab S4 10.5"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Tab A 10.5"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A8s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A6s"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A9 (2018)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A7 (2018)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Note9"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy Watch"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J6+"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J4 Core"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J4+"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J2 Core"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy On6"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J7 (2018)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J3 (2018)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A8 Star (A9 Star)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S Light Luxury"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J8"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J6"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J4"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A6+ (2018)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy A6 (2018)"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J7 Duo"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy J7 Prime 2"
+            },
+            {
+                "code": "",
+                "manufacturing_code": "",
+                "name": "Galaxy S9+"
+            }
+        ]
+    }
+]
